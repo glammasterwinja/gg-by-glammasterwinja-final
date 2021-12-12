@@ -1,0 +1,94 @@
+body { background-image: url("images/Stars-homepage.jpg"); color: indigo;}
+.logo {
+  display: block;
+  margin-left: 500px;
+  margin-right: 150px;
+  width: 25%;}
+
+.logo:hover { transform: scaleX(-1);}
+
+.mediaimg {position: relative;
+  display: block;
+  margin: auto;
+  width: 25%;}
+  
+.explorehead {display: inline;
+  font-family: 'Syncopate', sans-serif;
+    font-size: 2em;
+    letter-spacing: 2px;
+    line-height: 1.0;
+    text-shadow: 2px 2px 5px maroon;
+    background-color: black;
+}
+
+.exploreA {
+  float: left;
+  padding: 8px;
+  background-color: black;
+  color: midnightblue;
+font-family: 'Geostar', cursive;
+font-size: 1.25em;
+line-height: 1.0;
+text-shadow: -1px 0 red, 0 1px maroon, 1px 0 red, 0 -1px maroon; 
+}
+
+h1 {font-family: 'Orbitron', sans-serif;
+font-size: 7em;
+color: indigo;
+text-align: center;
+letter-spacing: 5px;
+text-shadow: 2px 2px 5px red;
+text-decoration: underline;}
+
+h2{ font-family: 'Syncopate', sans-serif;
+font-size: 5em;
+letter-spacing: 2px;
+line-height: 1.0;
+rotate: -12;
+text-shadow: 2px 2px 5px maroon;
+text-decoration: underline overline;
+}
+
+p{ font-family: 'Rajdhani', sans-serif;
+font-size: 3em; 
+line-height: 1.0;
+text-shadow: 2px 2px 5px red;
+ }
+
+ .aboutP {
+    background-color: rgb(255, 165, 180); 
+    opacity: 50%;
+    text-decoration: underline;
+ }
+
+figcaption{font-family: 'Rajdhani', sans-serif;
+    font-size: 2.5em; 
+    line-height: 1.0;
+text-align: center;
+text-shadow: 2px 2px 5px red;
+background-color: rgb(255, 165, 180); 
+opacity: 60%;
+margin-left: 450px;
+margin-right:450px;
+margin-top: 70px;
+margin-bottom:70px;
+}
+
+a:hover{ color: midnightblue;
+font-family: 'Geostar', cursive;
+text-shadow: 2px 2px 5px red;
+ /* width: 300px; */
+
+}
+
+ a{color: midnightblue;
+font-family: 'Geostar', cursive;
+font-size: 1.25em;
+line-height: 1.0;
+text-shadow: -1px 0 red, 0 1px maroon, 1px 0 red, 0 -1px maroon;}
+
+audio {display: block;
+    margin-left: auto;
+    margin-right: auto;}
+
+img {border: 5px solid #a1a1ec;}
